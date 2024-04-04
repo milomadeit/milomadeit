@@ -21,7 +21,11 @@
 <h1 align="center">Hello!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<img src="https://github.com/milomadeit/milomadeit/assets/125615182/8fa4d5b6-38a4-4992-bf3e-3c5cccd57510" />
+<div align="center">
+<img src="https://github.com/milomadeit/milomadeit/assets/125615182/ad1cca17-0338-482e-a022-21741f265434" />
+  
+</div>
+
 
 
 ### About Me:
