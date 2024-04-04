@@ -18,15 +18,7 @@
   <img src="https://komarev.com/ghpvc/?username=milomadeit&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1 align="center">Hello!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-<div align="center">
-<img src="https://github.com/milomadeit/milomadeit/assets/125615182/ad1cca17-0338-482e-a022-21741f265434" />
-  
-</div>
-
-
+<h1 align="center">Hello!</h1>
 
 ### About Me:
 
