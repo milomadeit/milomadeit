@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://github.com/milomadeit/milomadeit/assets/125615182/93f7a4f1-4c00-46f1-bd5f-5b7ac622c3de" width=200 height=200 />
+  <img src="https://github.com/milomadeit/milomadeit/assets/125615182/93f7a4f1-4c00-46f1-bd5f-5b7ac622c3de" width=200 height=200 border-radius=50/>
 </div>
 
 
