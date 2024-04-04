@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="![logo](https://github.com/milomadeit/milomadeit/assets/125615182/0e59c425-24cb-4994-b4f2-5a998e4cd764)"
+/>
 </div>
 
 
