@@ -1,7 +1,7 @@
-### Hi there 👋
+
 
 <div id="header" align="center">
-  <img src="https://github.com/milomadeit/milomadeit/assets/125615182/603ffd53-a166-4eff-b631-973b17f37992" width=180 height=180 style="border-radius:50%"/>
+  <img src="https://github.com/milomadeit/milomadeit/assets/125615182/603ffd53-a166-4eff-b631-973b17f37992" width=180 height=180 />
 </div>
 
 <div id="badges" align="center">
@@ -14,21 +14,40 @@
   <img src="https://img.shields.io/badge/Portfolio%20Website-8A2BE2?style=for-the-badge"      alt="Website Badge"/> 
   </a>
 </div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=milomadeit&style=flat-square&color=blue" alt=""/>
+</div>
+
+<h1 align="center">Hello!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+<img src="https://github.com/milomadeit/milomadeit/assets/125615182/8fa4d5b6-38a4-4992-bf3e-3c5cccd57510" />
 
 
+### About Me:
+
+- 🌎 I currently live in Atlanta
+- 👯 Recently transitioned into Software Engineering
+- 💬 Ask me about Web3
+- 📫 Reach me:  <a href="https://www.linkedin.com/in/zachmilo/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>   
+  </a>
+- ⚡ Fun fact: I love making pixel art and music!
 
 
-<!--
-**milomadeit/milomadeit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :hammer_and_wrench: Languages and Tools:
+<div>
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" 
+ alt="Git" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  
+</div>
