@@ -25,10 +25,8 @@
 - 🌎 I currently live in Atlanta
 - 👯 Recently transitioned into Software Engineering
 - 💬 Ask me about Web3
-- 📫 Reach me:  <a href="https://www.linkedin.com/in/zachmilo/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>   
-  </a>
-- ⚡ Fun fact: I love making pixel art and music!
+- 📫 Reach me:  [Email](mailto:zachmilo@gmail.com)
+- ⚡ Fun fact: I make pixel art and music 👾 🎶
 
 
 ### :hammer_and_wrench: Languages and Tools:
