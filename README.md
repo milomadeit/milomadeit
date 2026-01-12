@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://github.com/milomadeit/milomadeit/assets/125615182/603ffd53-a166-4eff-b631-973b17f37992" width=180 height=180 />
+  <img src="https://maroon-adequate-gazelle-687.mypinata.cloud/ipfs/bafybeifrjh3ngcy3hwlcdceuak6osut2kuxxc444hkw6ipqat4auxc2mva" width=180 height=180 />
 </div>
 
 <div id="badges" align="center">
@@ -10,7 +10,7 @@
   </a>
 </div>
 <div id="badges" align="center">
-  <a href="https://zachmilo.vercel.app/">
+  <a href="https://zachmilo.xyz/">
   <img src="https://img.shields.io/badge/Portfolio%20Website-8A2BE2?style=for-the-badge"      alt="Website Badge"/> 
   </a>
 </div>
@@ -48,7 +48,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=milomadeit&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://hubstats-six.vercel.app/api?username=milomadeit&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milomadeit&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://hubstats-six.vercel.app/api/top-langs/?username=milomadeit&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
