@@ -23,10 +23,10 @@
 ### About Me:
 
 - 🌎 I currently live in Atlanta
-- 👯 Recently transitioned into Software Engineering
+- 🎨 I love doing anything creative
 - 💬 Ask me about Web3
 - 📫 Reach me:  [Email](mailto:zachmilo@gmail.com)
-- ⚡ Fun fact: I make pixel art and music 👾 🎶
+- ⚡ Fun fact: I tear it up on the dance floor 
 
 
 ### :hammer_and_wrench: Languages and Tools:
