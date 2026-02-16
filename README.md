@@ -1,5 +1,3 @@
-
-
 <div id="header" align="center">
   <img src="https://maroon-adequate-gazelle-687.mypinata.cloud/ipfs/bafybeicxsrqjh6doeq72jgrcvrbdc7kc6cdna7ckhy2jaudts7eeycf2iu" width=180 height=180 />
 </div>
@@ -9,6 +7,7 @@
 </div>
 
 <h1 align="center">Hello!</h1>
+<h1 align="center">Lets build!</h1> 
 
 ### About Me:
 
