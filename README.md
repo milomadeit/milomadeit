@@ -4,11 +4,6 @@
   <img src="https://maroon-adequate-gazelle-687.mypinata.cloud/ipfs/bafybeicxsrqjh6doeq72jgrcvrbdc7kc6cdna7ckhy2jaudts7eeycf2iu" width=180 height=180 />
 </div>
 
-<div id="badges" align="center">
-  <a href="https://zachmilo.xyz/">
-  <img src="https://img.shields.io/badge/Portfolio%20Website-8A2BE2?style=for-the-badge"      alt="Website Badge"/> 
-  </a>
-</div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=milomadeit&style=flat-square&color=blue" alt=""/>
 </div>
@@ -17,10 +12,10 @@
 
 ### About Me:
 
-- 🌎 I currently live in Atlanta
+- 🌎 I currently live in ATL
 - 🎨 I love doing anything creative
 - 💬 Ask me about Web3
-- 📫 Reach me:  [Email](mailto:zachmilo@gmail.com)
+- 📫 Reach me:  [Email](mailto:notacapt@gmail.com)
 - ⚡ Fun fact: I tear it up on the dance floor 
 
 
