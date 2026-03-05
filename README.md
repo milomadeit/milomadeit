@@ -6,15 +6,15 @@
   <img src="https://komarev.com/ghpvc/?username=milomadeit&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1 align="center">Hello!</h1>
-<h2 align="center">Lets build!</h2> 
+<h1 align="center"> I'm not a captain </h1>
+<h2 align="center"> I'm just building things</h2> 
 
 ### About Me:
 
-- 🌎 I currently live in ATL
-- 🎨 I love doing anything creative
-- 💬 Ask me about Web3
-- 📫 Reach me:  [Email](mailto:notacapt@gmail.com)
+- 🇺🇸 based in the U.S.
+- 🎨 multi-media visual artist and designer
+- 🎚️ audio engineer and producer
+- 📫 Reach me @ [Email](mailto:notacapt@gmail.com)
 - ⚡ Fun fact: I tear it up on the dance floor 
 
 
