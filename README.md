@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=milomadeit&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=0xnocap&style=flat-square&color=blue" alt=""/>
 </div>
 
 <h1 align="center"> I'm not a captain </h1>
@@ -37,7 +37,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://hubstats-six.vercel.app/api?username=milomadeit&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://hubstats-six.vercel.app/api?username=0xnocap&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://hubstats-six.vercel.app/api/top-langs/?username=milomadeit&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://hubstats-six.vercel.app/api/top-langs/?username=0xnocap&layout=compact&theme=vision-friendly-dark)](https://github.com/0xnocap/github-readme-stats)
 
